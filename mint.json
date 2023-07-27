@@ -28,12 +28,6 @@
     "name": "홈페이지",
     "url": "https://bolta.io"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Blog",
@@ -44,11 +38,6 @@
       "name": "Support",
       "icon": "comment",
       "url": "https://bolta.channel.io"
-    },
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
     }
   ],
   "navigation": [
@@ -66,19 +55,6 @@
         "essentials/images",
         "essentials/settings",
         "essentials/navigation"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
       ]
     }
   ],
