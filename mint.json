@@ -42,20 +42,12 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "group": "시작하기",
+      "pages": ["get-started/join-bolta"]
     },
     {
       "group": "Essentials",
-      "pages": [
-        "essentials/terms",
-        "essentials/privacy-policy",
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation"
-      ]
+      "pages": ["essentials/terms", "essentials/privacy-policy"]
     }
   ],
   "footerSocials": {
