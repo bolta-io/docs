@@ -8,14 +8,14 @@
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#FF6600",
-    "light": "#AE87FF",
+    "light": "#FF6600",
     "dark": "#0D001D",
     "background": {
       "dark": "#090014"
     },
     "anchors": {
-      "from": "#FF7F57",
-      "to": "#9563FF"
+      "from": "#FF6600",
+      "to": "#EDA737"
     }
   },
   "topbarLinks": [
@@ -36,19 +36,19 @@
   ],
   "anchors": [
     {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://blog.bolta.io"
+    },
+    {
+      "name": "Support",
+      "icon": "comment",
+      "url": "https://bolta.channel.io"
+    },
+    {
       "name": "Documentation",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
@@ -60,6 +60,7 @@
       "group": "Essentials",
       "pages": [
         "essentials/terms",
+        "essentials/privacy-policy",
         "essentials/markdown",
         "essentials/code",
         "essentials/images",
@@ -83,7 +84,7 @@
   ],
   "footerSocials": {
     "facebook": "https://www.facebook.com/boltacorp",
-    "linkedin": "https://www.linkedin.com/company/mintsearch",
+    "linkedin": "https://www.linkedin.com/company/bolta-io",
     "github": "https://github.com/mintlify"
   }
 }
