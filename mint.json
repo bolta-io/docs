@@ -59,6 +59,7 @@
     {
       "group": "Essentials",
       "pages": [
+        "essentials/terms",
         "essentials/markdown",
         "essentials/code",
         "essentials/images",
