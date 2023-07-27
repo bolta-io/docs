@@ -43,7 +43,7 @@
   "navigation": [
     {
       "group": "시작하기",
-      "pages": ["get-started/join-bolta"]
+      "pages": ["get-started/join-bolta", "get-started/apply-company-info"]
     },
     {
       "group": "Essentials",
