@@ -47,7 +47,10 @@
     },
     {
       "group": "발행하기",
-      "pages": ["issuance/request-fill-out-invoice"]
+      "pages": [
+        "issuance/request-fill-out-invoice",
+        "issuance/approve-issuance"
+      ]
     },
     {
       "group": "Essentials",
