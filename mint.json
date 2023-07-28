@@ -46,6 +46,10 @@
       "pages": ["get-started/join-bolta", "get-started/apply-company-info"]
     },
     {
+      "group": "발행하기",
+      "pages": ["issuance/request-fill-out-invoice"]
+    },
+    {
       "group": "Essentials",
       "pages": ["essentials/terms", "essentials/privacy-policy"]
     }
