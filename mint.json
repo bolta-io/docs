@@ -51,7 +51,8 @@
         "issuance/request-fill-out-invoice",
         "issuance/approve-issuance",
         "issuance/quick-issuance",
-        "issuance/schedule-issuance"
+        "issuance/schedule-issuance",
+        "issuance/invoices"
       ]
     },
     {
