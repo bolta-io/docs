@@ -50,7 +50,8 @@
       "pages": [
         "issuance/request-fill-out-invoice",
         "issuance/approve-issuance",
-        "issuance/quick-issuance"
+        "issuance/quick-issuance",
+        "issuance/schedule-issuance"
       ]
     },
     {
