@@ -43,7 +43,10 @@
   "navigation": [
     {
       "group": "시작하기",
-      "pages": ["get-started/join-bolta", "get-started/apply-company-info"]
+      "pages": [
+        "get-started/join-bolta",
+        "get-started/apply-company-info"
+      ]
     },
     {
       "group": "발행하기",
@@ -57,17 +60,15 @@
     },
     {
       "group": "Essentials",
-      "pages": ["essentials/terms", "essentials/privacy-policy"]
+      "pages": [
+        "essentials/terms",
+        "essentials/privacy-policy"
+      ]
     }
   ],
   "footerSocials": {
     "facebook": "https://www.facebook.com/boltacorp",
     "linkedin": "https://www.linkedin.com/company/bolta-io",
     "github": "https://github.com/bolta-io"
-  },
-  "analytics": {
-    "gtm": {
-      "tagId": "GTM-59ZRC8ZJ"
-    }
   }
 }
