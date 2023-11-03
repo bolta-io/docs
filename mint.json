@@ -64,5 +64,10 @@
     "facebook": "https://www.facebook.com/boltacorp",
     "linkedin": "https://www.linkedin.com/company/bolta-io",
     "github": "https://github.com/bolta-io"
+  },
+  "analytics": {
+    "gtm": {
+      "tagId": "GTM-59ZRC8ZJ"
+    }
   }
 }
