@@ -30,11 +30,6 @@
   },
   "anchors": [
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://blog.bolta.io"
-    },
-    {
       "name": "Support",
       "icon": "comment",
       "url": "https://bolta.channel.io"
